@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaphet Tefera</h1>
 💫 About Me:  
-<h3 align="center">A passionate frontend developer, Python programmer, and Graphics Designer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaphet-teffera-44175231a/)
