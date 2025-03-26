@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaphet Tefera</h1>
+<h1 align="center">Hi 👋, I'm Yaphet Teffera</h1>
 💫 About Me:  
 <h3 align="center">A passionate fullstack developer</h3>
 
